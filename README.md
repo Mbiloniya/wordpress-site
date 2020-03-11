@@ -1,2 +1,0 @@
-# wordpress-site
-Demo site
